@@ -6,7 +6,7 @@ function newItem(){
   li.append(inputValue);
 
   if (inputValue === '') {
-    alert("You must write something!");
+    alert("Please write something in the text field below");
   } else {
     $('#list').append(li);
   }
