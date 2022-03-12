@@ -3,7 +3,7 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #dfdfdf;
+background: #5F9EA0;
 }
 
 .container{
@@ -12,7 +12,9 @@ width: 300px;
 margin: 0 auto;
 margin-top: 40px;
 background: white;
-border-radius: 5px;}
+border-radius: 5px;
+background-color: #F8F8FF;
+}
 
 form {
 display: inline-block;
